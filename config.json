@@ -5,5 +5,53 @@
   "interstitial_min_interval_ms": 60000,
   "interstitial_min_watch_ms": 5000,
   "rewarded_min_watch_ms": 15000,
-  "creatives": []
+  "creatives": [
+    {
+      "id": "meridian_banner_1",
+      "format": "image",
+      "placements": [
+        "banner"
+      ],
+      "image_url": "https://vachek-hooves.github.io/11824-BookOfRaDelux_house_ad/media/banner_1.jpg",
+      "icon_url": "https://vachek-hooves.github.io/11824-BookOfRaDelux_house_ad/media/icon.jpg",
+      "title": "",
+      "body": "",
+      "cta_text": "PLAY",
+      "bundle_id": "com.brasswork.meridian",
+      "store_url": "https://play.google.com/store/apps/details?id=com.brasswork.meridian",
+      "weight": 1
+    },
+    {
+      "id": "meridian_slide_1",
+      "format": "image",
+      "placements": [
+        "interstitial",
+        "rewarded"
+      ],
+      "image_url": "https://vachek-hooves.github.io/11824-BookOfRaDelux_house_ad/media/screen_1.jpg",
+      "icon_url": "https://vachek-hooves.github.io/11824-BookOfRaDelux_house_ad/media/icon.jpg",
+      "title": "",
+      "body": "",
+      "cta_text": "PLAY",
+      "bundle_id": "com.brasswork.meridian",
+      "store_url": "https://play.google.com/store/apps/details?id=com.brasswork.meridian",
+      "weight": 1
+    },
+    {
+      "id": "meridian_slide_2",
+      "format": "image",
+      "placements": [
+        "interstitial",
+        "rewarded"
+      ],
+      "image_url": "https://vachek-hooves.github.io/11824-BookOfRaDelux_house_ad/media/screen_2.jpg",
+      "icon_url": "https://vachek-hooves.github.io/11824-BookOfRaDelux_house_ad/media/icon.jpg",
+      "title": "",
+      "body": "",
+      "cta_text": "PLAY",
+      "bundle_id": "com.brasswork.meridian",
+      "store_url": "https://play.google.com/store/apps/details?id=com.brasswork.meridian",
+      "weight": 1
+    }
+  ]
 }
