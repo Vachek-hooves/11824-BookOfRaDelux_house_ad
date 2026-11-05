@@ -52,6 +52,22 @@
       "bundle_id": "com.brasswork.meridian",
       "store_url": "https://play.google.com/store/apps/details?id=com.brasswork.meridian",
       "weight": 1
+    },
+    {
+      "id": "meridian_slide_3",
+      "format": "image",
+      "placements": [
+        "interstitial",
+        "rewarded"
+      ],
+      "image_url": "https://vachek-hooves.github.io/11824-BookOfRaDelux_house_ad/media/screen_3.jpg",
+      "icon_url": "https://vachek-hooves.github.io/11824-BookOfRaDelux_house_ad/media/icon.png",
+      "title": "",
+      "body": "",
+      "cta_text": "PLAY",
+      "bundle_id": "com.brasswork.meridian",
+      "store_url": "https://play.google.com/store/apps/details?id=com.brasswork.meridian",
+      "weight": 1
     }
   ]
 }
